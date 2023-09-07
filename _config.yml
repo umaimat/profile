@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Umaima Surti
+title: Solution Architect
+email: umaima_t@yahoo.com
+website: https://umaimat.github.io/profile/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: umaima_t
+github_username:  umaimat
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: umaima.surti
+linkedin_username: umaimatinwala
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,73 +48,363 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's <mark>Umaima</mark> and I'm a <mark>Solution Architect</mark>, with a proven track record of over <mark>17+ years</mark> in shaping data-driven success stories. 
+  
+  My career has been defined by a passion for leveraging technology to solve complex challenges. 
+  
+  I have mastered the art of translating client needs into innovative solutions, offering technical leadership and mentorship to achieve remarkable results.
+  
+  I am a dynamic leader, mentor, and change agent. I thrive in dynamic, cross-functional ecosystems, where I drive transformative results. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Proficient in <mark>Python</mark>, C# .NET, <mark>LangChain</mark>, <mark>ChatGPT</mark> models and applications, databases like <mark>SQL & No SQL</mark> - MS SQL Server, MongoDB, etc. Microservices based development, Kubernetes, docker, cloud native application development in <mark>Azure/AWS/GCP/Digital Ocean</mark>, etc.
+  
+  Currently working with <mark>CoReCo Technologies</mark>, and ex-employee of <mark>L&T Infotech</mark>, <mark>Mastek Ltd.</mark>, <mark>Chistats Labs Pvt Ltd.</mark>, <mark>Spinnaker Analytics</mark>. Worked for clients across geographies like UK, US, India, etc.
+
+  Besides core technical development, I have brief experience in handling Sales & Marketing, Business Process Improvement in family business of manufacturing tin cans
+  
+  My mission is to architect the future of data, one visionary project at a time.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Business Experience
+  #   layout: text # Type of content section (list/text)
+  #   content: |
+  #       - Proficient in C# .NET, Python, databases like SQL & No SQL - MS SQL Server, MongoDB, etc. Microservices based development, Kubernetes, docker, cloud native application development in Azure/AWS/GCP/Digital Ocean, etc.
+  #       - Ex-employee of L&T Infotech, Mastek Ltd., Chistats Labs Pvt Ltd, Spinnaker Analytics, 
+  #       - Currently working with CoReCo Technologies
+  #       - Worked for clients across geographies like UK, US, India, etc.
+  #       - Besides core technical development, I have brief experience in handling Sales & Marketing, Business Process Improvement in family business of manufacturing tin cans
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: CoReCo Technologies
+        link: https://www.corecotechnologies.com/
+        sub_title: Solution Architect Consultant
+        caption: Feb 2023 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Steering client engagement, expertise convergence, and team mentorship to meet business objectives.
+        description: | 
+          Engaging with clients to grasp their needs and converted them into comprehensive architectural and design plans. Fostering strong collaboration with subject matter experts and application specialists to attain critical project success criteria. Delivering technical guidance and mentorship to the team, ensuring alignment with business requirements.
+      - layout: left
+        title: Chistats Labs Private Ltd.
+        link: https://chistats.com/
+        sub_title: Solution Architect cum Product Owner
+        caption: Oct 2018 - Dec 2022
+        quote: >
+          Leveraging data engineering expertise to architect cutting-edge solutions and drive business innovation.
+        description: | 
+          Collaborating closely with clients to decipher their needs and translating them into high-level architectural designs. Leading a team to achieve project success factors, providing technical leadership, and mentoring to meet evolving business demands.
 
+      - layout: left
+        title: Spinnaker Analytics
+        link: # Add a link to the company's website if applicable
+        sub_title: Analytics Consultant
+        caption: June 2019 - Mar 2020
+        quote: >
+          Enabling insurance and e-commerce clients to harness the power of data through advanced analytics and AI solutions.
+        description: |
+          Collaborated with clients to deliver innovative solutions, including text analytics, recommendation engines, and predictive analytics. Contributed to the development of breakthrough analytic products and decision-making tools by leveraging predictive analytics, AI, machine learning, and deep domain expertise.
+
+      - layout: left
+        title: Freelance Data Science Trainer
+        link: # Add a link to relevant websites or organizations if applicable
+        sub_title: Data Science Trainer
+        caption: Oct 2017 - Present
+        quote: >
+          Empowering the next generation of data scientists through training and mentorship.
+        description: |
+          Successfully conducted training and mentorship programs for aspiring data science professionals. Collaborated with organizations like Mahindra & Mahindra, Boston Institute of Analytics, Blobcity, Asterix Solutions, etc. to impart valuable knowledge and skills in data science.
+
+      - layout: left
+        title: Mohammedi Tin Pressing
+        link: # Add a link to relevant websites or organizations if applicable
+        sub_title: Managing Director
+        caption: Jan 2015 - Dec 2018
+        quote: >
+          Guiding a family business to success in the manufacturing industry.
+        description: |
+          Played a pivotal role in the overall business development of Mohammedi Tin Pressing, specializing in the manufacturing of tin cans for curry powders, PVC/Brush-In cans, and more.
+
+      - layout: left
+        title: Parental Break
+        sub_title: Full-Time Parent
+        caption: Dec 2012 - Dec 2017
+        quote: >
+          Took a career pause for maternity and personal growth.
+        description: |
+          During this period, I dedicated my time to raising my family and furthering my education. I pursued a *Masters in Data Science from Simplilearn.com* to enhance my skills and knowledge in the field of data science.
+
+      - layout: left
+        title: Mastek Ltd.
+        link: https://www.mastek.com/
+        sub_title: Associate Solution Architect
+        caption: Sept 2005 - Nov 2012
+        quote: >
+          Navigating diverse roles and responsibilities, from specialist developer to associate solution architect.
+        description: |
+          Progressed through various roles, engaging in direct customer interactions onsite and offshore to understand business requirements and convert them into effective design solutions. Provided technical support and guidance to the team to ensure the successful delivery of projects.
+
+      - layout: left
+        title: L&T Infotech Ltd.
+        link: https://www.ltimindtree.com/
+        sub_title: Software Developer
+        caption: Aug 2003 - Aug 2005
+        quote: >
+          Contributing as a versatile developer in diverse projects.
+        description: |
+          Worked as both a frontend and backend developer, contributing to various projects involving desktop application development using technologies such as C#.NET, MS SQL, and proprietary tools.
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Slidedge
+        sub_title: Chistats Limited
+        caption: Product Owner cum Solution Architect (Mar 2021 - Mar 2022)
+        # quote: > 
+        description: |
+          Objective : Build an enterprise product for searching relevant documents from the existing organization repository like presentations, etc.
+          
+          Technology/Tools Used:
+            - MS C# .NET using MS Visual Studio
+            - Python
+            - MongoDB
+            - Angular
+            - Docker Containers, Kubernetes
+
+          My Responsibilities:
+            - Design the microservice product architecture
+            - Setup the team including hiring, training, etc.
+            - Coordinating with the client for requirements clarity
+            - End-to-end lifecycle management of the product, including development, deployment, testing, production, infrastructure, etc.
+      - layout: left
+        title: Sentiment Analysis Product Prototype
+        sub_title: Chistats Limited
+        caption: Technical Lead (6 months)
+        # quote: > 
+        description: |
+          Objective: Design various insights from open-source data like social media, etc. and infer sentiments and topics from it
+          Technology/Tools Used:
+            - Python, PowerBI, Plotly Dash
+
+          My Responsibilities:
+            - Study the market for various use cases in sentiment analysis and its consumption by various industries
+            - Conceptualize, design, develop dashboard to show the sentiments of products like sound systems (Dolby), insurance products, cosmetics, enhancing personal branding for a singer looking at his competition
+      - layout: left
+        title: Data Model Standardization Study for eFleet Systems
+        sub_title: Chistats Limited
+        caption: Technical Consultant (6 months)
+        # quote: > 
+        description: |
+          Objective: Study existing data model of 4 products developed by eFleet and recommend common product architect and reporting system
+          Technology/Tools Used:
+            - Python
+          
+          My Responsibilities:
+            - Study the existing data models and recommend how a common product can be architected from them
+      - layout: left
+        title: SETU for Government of Maharashtra (Department of IT)
+        sub_title: Mastek Limited
+        caption: Technical Lead (1 year 7 months)
+        # quote: > 
+        description: |
+          Objective: Worked for various applications for Maharashtra Government (SETU) which were being designed to convert their manual work into automated tasks. This includes Maharashtra government website (www.mahagov.in), Meeting Management for CM Office, Tapaal, KRA, RFD, DEMS, DGMS, EGS, E-Complaint, Attendance system, etc. Used Google Analytics to view traffic on www.mahagov.in.
+          Technology/Tools Used:
+            - MS C# .NET using MS Visual Studio 
+            -	MS SQL 2005
+            - MS Sharepoint
+          
+          My Responsibilities:
+            - Handling a team of 20+
+            - Understanding the client requirement
+            - Doing high-level analysis of client requirements and designing the solution
+            - Designing and developing an architecture for the development team, delivery management and post-delivery training and support to end users
+            - Providing technical support to the development team
+            - Providing feedback and training to the team 
+            - Team appraisals
+      - layout: left
+        title: EPCM for Reliance
+        sub_title: Mastek Limited
+        caption: Technical Lead (5 months)
+        # quote: > 
+        description: |
+          Objective: Study existing processes of EPCM division of Reliance and provide automation to enable efficient and effective reduction in time and cost.
+          Technology/Tools Used:
+            - Enterprise Architect
+          
+          My Responsibilities:
+            - Understanding the client requirement
+            -	Doing high-level analysis of client requirements and designing the solution using design tools like Enterprise Architect
+            - Designing and developing an architecture for the development team
+            -	Have been involved with client like Reliance for their EPCM division
+            -	Responding to RFPs
+      - layout: left
+        title: STG Billing (Insurance Product Development)
+        sub_title: Mastek Limited
+        caption: Technical Lead (1 year 5 months)
+        # quote: > 
+        description: |
+          Objective: This was a Non-Life Insurance Billing Product in Mastek. As part of my profile in this project, I was involved in creating a stable Base product technically and also setting processes for implementing by project teams. The tool I was involved in was ICM - Insurance Content Manager, in which I was involved in Designing and Implementing the structure as well as ensuring smooth roll-out by project teams.
+          Technology/Tools Used:
+            - Oracle PL/SQL 
+            - Java 
+            - Oracle Reports
+          
+          My Responsibilities:
+            - Understanding of the STG Billing product
+            -	Creating a stable BASE product. Responsible in areas of Wholesale billing, EFT, QC issues, etc.
+            -	Doing high-level analysis of defects reported and preparing adequate documents for the same.
+            -	Design of Insurance Content Manager (ICM) tool for BASE product. 
+            -	Deployment and training to project team for ICM implementation & usage
+      - layout: left
+        title: Design School
+        sub_title: Mastek Limited
+        caption: Design Student (6 months)
+        # quote: > 
+        description: |
+          Objective: Design School (D-School) is an initiative in Mastek to inculcate Design thinking among Mastek employees. This was a full-time training sponsored by Mastek to selected employees.
+          Technology/Tools Used:
+            - Enterprise Architect
+            -	Squeak
+            -	Prolog etc.
+          
+          What I learnt:
+            - Learning and understanding of Business Models like Osterwalder, Business Value, Engagement Model, Stakeholder's Model, etc. Learning Six Thinking Hats concepts.
+            -	Applying business models to various businesses and doing a case study. Presentation of every case study
+            -	Study of Wealth Management domain, preparing its business process libraries and domain modeling using Enterprise Architect 
+            -	Case study of live problem in Mastek - Software Product Requisition (SPR) System and providing solution to them
+            -	Case study of the Passport RFP project
+            -	Self-development workshops and trainings like 'I-The Enabler', 'The Landmark Forum', 'The Landmark Advanced Course' which helped me in improving communication and being effective in it, self-introspection and how to deal with my fears, weakness, etc.
+      - layout: left
+        title: Global Delivery Portal
+        sub_title: Mastek Limited
+        caption: Software Engineer (6 months)
+        # quote: > 
+        description: |
+          Objective: Global Delivery was an internal portal for Mastek to allow senior management team to get status of various projects in terms of Timesheet data, cost-revenue data for DU Review, Risk management tool, CNF, etc. It also generated reports for various analytic decisions for senior managers.
+          Technology/Tools Used:
+            - C# .NET 2.0 using MS Visual Studio 2005
+            -	Ajax
+            - SQL Server 2005
+          
+          My Responsibilities:
+            - Interacting with client for overall understanding of the product requirement
+            - Doing estimations, schedules, defect management, etc.
+            - Module designing, making PoCs, writing test scripts, training and guiding the team for development, reviewing code, etc.
+
+      - layout: left
+        title: Electronic Document Management System for Capita Systems
+        sub_title: Mastek Limited
+        caption: Software Developer (5 months)
+        # quote: > 
+        description: |
+          Objective: Electronic Document Management System was an application to manage the full document life-cycle from scanning, intelligent data capture and electronic document management through to workflow systems and hosting services.
+          Technology/Tools Used:
+            - C# .NET 3.0 using MS Visual Studio 2005
+            -	Visual Studio Team System
+            -	Ajax
+            -	Windows Communication Foundation (WCF)
+            -	MS SQL Server 2005
+          
+          My Responsibilities:
+            - Interacting with client development team for overall understanding of the product requirement and preparing technical design documents
+            -	Making status reports, estimations, schedules, impact analysis, defect management, etc.
+            -	Designing modules, making Proof of Concepts, writing test scripts, preparing Operation Manuals (as development guidelines to the team), etc.
+            -	Integrating deliveries received from offshore, reviewing code
+      - layout: left
+        title: SIMS.NET, STAR-S, Personnel -7  for Capita Education Services
+        sub_title: Mastek Limited
+        caption: Software Developer (15 months)
+        # quote: > 
+        description: |
+          Objective: Capita Education Services (CES), UK had a STAR-S project which was an enhancement to the existing CES school project names SIMS.NET. This project involved enhancing features in modules like Agency & Agents, related changes in Student & SEN Linked Students, Behavior & Detention of Students, deleting unlinked contact, Reports, etc.
+          Technology/Tools Used:
+            - C# .NET 3.0 using MS Visual Studio 2005
+            -	Visual Studio Team System
+            -	MS SQL Server 2005
+          
+          My Responsibilities:
+            - Analyzed & designed client requirements for different module
+            -	Design of the module was done using tools like MS Visio 2003.
+            - Prepared database schemas which include table structures, writing stored procedures for the same module.
+            -	Involved in development of the module
+            - Supported the Implementation
+            - Worked on new change requests and bug fixes
+      - layout: left
+        title: Citroen & Eurobox II for Johnson Control Inc, UK 
+        sub_title: L&T Infotech Limited
+        caption: Software Developer (4 months)
+        # quote: > 
+        description: |
+          Objective: The project dealt with the diagnostic application PROXIA that is used for diagnosis of Citroen vehicles.
+          Technology/Tools Used:
+            - VC++
+            -	Propriety language 'ASDE' 
+            -	Database - Paradox-7
+          
+          My Responsibilities:
+            - Development of modules
+            - Testing them on the simulator
+      - layout: left
+        title: Premier Serco Information Management System for Premier Custodial Services – Serco, UK
+        sub_title: L&T Infotech Limited
+        caption: Software Developer (4 months)
+        # quote: > 
+        description: |
+          Objective: The application used prisoners' data to monitor, track and evaluate prisoner movement.
+          Technology/Tools Used:
+            - MS C# .NET using MS Visual Studio 
+            -	MS SQL 2000 
+            -	MS-Access
+          
+          My Responsibilities:
+            - Development of 'Audit and archiving modules'
+            -	Preparing test cases and functional documents
+            -	Testing of modules
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Bachelor of Engineering
+        caption: 1999 - 2003
+        sub_title: M.H. Saboo Siddik College of Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          Activities and societies: Active member of IEEE
+          
+          Volunteer for various cultural and technical festivals
+          
+          <mark>I stood 1st in my college and 7th in the Mumbai University</mark>
+      - layout: left
+        title: Masters in Data Science
+        caption: 2017 - 2018
+        sub_title: SimpliLearn.com
+        description: | # this will include new lines to allow paragraphs
+          Activities and societies: Participated in various analysis on AnalyticsVidhya.com, Kaggle.com.
+          
+          Part of various Data Science meetups in Mumbai like Datagiri.com, AnalyticsVidhya.com.Activities and societies: Participated in various analysis on AnalyticsVidhya.com, Kaggle.com. Part of various Data Science meetups in Mumbai like Datagiri.com, AnalyticsVidhya.com.
+          
+          Completed R, SAS, Python, Tableau, Bigdata Hadoop, Spark, etc. through self-based learning and online webinars. 
+          
+          Hands-on experience in various Machine Learning Algorithms like Decision Trees (CART), Naïve Bayes, k-NN, K Nearest Neigbours, SVM -Support Vector Machines, K-Means, Hierarchical, DB Scan, Association Algorithms like Association Rule mining, Market Basket Analysis
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - Arabic Language, possessing Diploma in Arabic Language & Literature from National Council For Promotion of Urdu Language (NCPUL), Government of India
+      - Playing with my daughters
+      - Fond of yoga and meditation
+      - Enjoy playing badminton
+      - Like Cycling
+      - Enjoy Gardening
+      - Enjoy traveling and exploring
+      - Love teaching and mentoring
+      - Complete foodie, love exploring different cuisines 
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -12,7 +12,7 @@ email: umaima_t@yahoo.com
 website: https://umaimat.github.io/profile/
 
 # Dark Mode (true/false/never)
-darkmode: never
+# darkmode: never
 
 # Social links
 twitter_username: umaima_t
@@ -58,9 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   Proficient in <mark>Python</mark>, C# .NET, <mark>LangChain</mark>, <mark>ChatGPT</mark> models and applications, databases like <mark>SQL & No SQL</mark> - MS SQL Server, MongoDB, etc. Microservices based development, Kubernetes, docker, cloud native application development in <mark>Azure/AWS/GCP/Digital Ocean</mark>, etc.
   
-  Currently working with <mark>CoReCo Technologies</mark>, and ex-employee of <mark>L&T Infotech</mark>, <mark>Mastek Ltd.</mark>, <mark>Chistats Labs Pvt Ltd.</mark>, <mark>Spinnaker Analytics</mark>. Worked for clients across geographies like UK, US, India, etc.
+  Currently working with <mark>CoReCo Technologies</mark>, and ex-employee of <mark>L&T Infotech</mark>, <mark>Mastek Ltd.</mark>, <mark>Chistats Labs Pvt Ltd.</mark>, <mark>Spinnaker Analytics</mark>. Worked for clients across geographies like <mark>UK, US, India,</mark> etc.
 
-  Besides core technical development, I have brief experience in handling Sales & Marketing, Business Process Improvement in family business of manufacturing tin cans
+  Besides core technical development, I have brief experience in handling Sales & Marketing, Business Process Improvement in family business of manufacturing tin cans.
   
   My mission is to architect the future of data, one visionary project at a time.
 
@@ -114,7 +114,7 @@ content:
         quote: >
           Empowering the next generation of data scientists through training and mentorship.
         description: |
-          Successfully conducted training and mentorship programs for aspiring data science professionals. Collaborated with organizations like Mahindra & Mahindra, Boston Institute of Analytics, Blobcity, Asterix Solutions, etc. to impart valuable knowledge and skills in data science.
+          Conduct "Data Science with Machine Learning Algorithms in Python" training and mentorship programs for aspiring data science professionals. Collaborated with organizations like Mahindra & Mahindra, Boston Institute of Analytics, Blobcity, Asterix Solutions, etc. to impart valuable knowledge and skills in data science.
 
       - layout: left
         title: Mohammedi Tin Pressing
@@ -158,6 +158,29 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Projects @
+        sub_title: CoReCo Technologies
+        caption: Solution Architect Consultant (Feb 2023 - Present)
+        # quote: > 
+        description: |
+          Objective : Excelling in pre-sales activities, optimizing application performance, and driving innovation initiatives. Demonstrated expertise in crafting solution architecture, client engagement, and innovation leadership.
+          
+          Technology/Tools Used:
+            - Python. Node.js
+            - MongoDB, MySQL, PostgreSQL
+            - LangChain, ChatGPT, etc.
+
+          My Responsibilities:
+            - Pre-sales Excellence: Actively contributed to pre-sales activities by effectively gathering client requirements, crafting technical solutions, providing estimations, and delivering proposals to secure business opportunities.
+
+            - Performance Optimization: Successfully completed a consulting assignment with Smart Controls, conducting in-depth assessments of existing applications. Identified performance bottlenecks, devised comprehensive solutions, and recommended enhancements resulting in improved application performance.
+
+            - Innovative Initiatives: Led the CoReCo Labs initiative, driving innovation in the organization. Spearheaded the development of Proof of Concepts (PoCs) in the following areas:
+              1. Developed computer vision-based applications for CCTVs, enhancing safety measures by detecting violations.
+              2. Implemented LangChain & ChatGPT-based applications, including chatbots, video summarization from multiple sources, and video KYC verification with physical documents, optimizing operational efficiency.
+              
+            - Data Analytics & Data Engineering Solution Design: Designed a comprehensive solution for Adani Airports Data Analytics platform, including end-to-end data pipeline architecture. Contributed to enabling data-driven decision-making within the organization, streamlining data processing, and enhancing data analytics capabilities.
       - layout: left
         title: Slidedge
         sub_title: Chistats Limited

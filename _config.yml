@@ -159,7 +159,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Projects @
+        title: Projects
         sub_title: CoReCo Technologies
         caption: Solution Architect Consultant (Feb 2023 - Present)
         # quote: > 
@@ -181,6 +181,24 @@ content:
               2. Implemented LangChain & ChatGPT-based applications, including chatbots, video summarization from multiple sources, and video KYC verification with physical documents, optimizing operational efficiency.
               
             - Data Analytics & Data Engineering Solution Design: Designed a comprehensive solution for Adani Airports Data Analytics platform, including end-to-end data pipeline architecture. Contributed to enabling data-driven decision-making within the organization, streamlining data processing, and enhancing data analytics capabilities.
+      - layout: left
+        title: Computer Vision based Defect Analysis for Bridgestone
+        sub_title: Chistats Limited
+        caption: Cloud Solution Architect (June 2022 - Dec 2022)
+        # quote: > 
+        description: |
+          Objective : Build an defect classification and OCR based tyre number detection for Bridgestone tyres.
+          
+          Technology/Tools Used:
+            - Python
+            - MS Azure ML Studio
+            - MS Azure Storage, VMs management for development and deployment
+
+          My Responsibilities:
+            - Design the solution architecture
+            - Coordinating with the client for requirements clarity
+            - Diving into ML Studio while providing guidance and coaching to the team in tandem
+            - End-to-end lifecycle management of the product, including development, deployment, testing, production, infrastructure, etc.
       - layout: left
         title: Slidedge
         sub_title: Chistats Limited
